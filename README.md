@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AhmedishimAplus
 - 👀 I’m interested in Football
-- 🌱 I’m currently learning JS Java python
+- 🌱 I’m currently learning JS Java python c++ 
 
 - 📫 How to reach me ...
 - 😄 Pronouns: pen/is
